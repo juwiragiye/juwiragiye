@@ -13,8 +13,8 @@
 ## My GitHub stats
 ![Janvier's GitHub stats](https://github-readme-stats.vercel.app/api?username=juwiragiye&show_icons=true&theme=default)
 
-## My CodeWars stats
-![CodeWars Badge](https://www.codewars.com/users/juwiragiye/stats)
+## My CodeWars Bage
+![CodeWars Badge](https://www.codewars.com/users/juwiragiye/badges/large)
 
 ## Connect with me
 [![Twitter: janvitech](https://img.shields.io/twitter/follow/janvitech?style=social)](https://twitter.com/janvitech)
