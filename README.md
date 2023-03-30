@@ -1,6 +1,8 @@
 # Hi, I'm Janvier Uwiragiye 👋
 
 ## About me
+- 🌍 Nationality: 🇧🇮 Burundi
+- 📍 Location: 🇨🇦 Canada
 - 🔭 Current project: Developing NLP resources for the Kirundi language to enhance accessibility for native and non-native speakers
 - 🌱 Learning: Advanced deep learning techniques for natural language processing
 - 👯 Collaboration interests: Web and mobile application development projects
