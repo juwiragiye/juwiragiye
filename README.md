@@ -35,6 +35,7 @@ Here are some of the people who inspire me in the tech industry:
 - 🤖 Yann LeCun, Director of AI Research at Facebook and co-creator of the Convolutional Neural Network
 - 💼 Sam Altman, CEO of OpenAI and former President of Y Combinator
 - 🌟 Fei-Fei Li, Co-Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI) and founder of AI4ALL
+- 🇧🇮 Pierre Nkurunziza, former President of Burundi, known for his leadership and political impact.
 
 ## Goals and Aspirations
 - 🚀 Continuously improve my skills and stay up-to-date with emerging technologies.
